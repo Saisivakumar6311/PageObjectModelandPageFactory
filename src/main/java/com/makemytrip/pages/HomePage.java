@@ -21,7 +21,7 @@ public class HomePage extends BaseTest{
 	
 	@FindBy(xpath="//input[@id='toCity']")
 	WebElement searchToCity;
-	
+	@FindBy(xpath ="")
 	
 	
 	
